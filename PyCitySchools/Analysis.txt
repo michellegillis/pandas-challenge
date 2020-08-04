@@ -1,0 +1,3 @@
+It is apparent that charter schools have much higher overall pasing rates than district schools (as demostrated by the final table).
+The other observable factor of success was school size, with the top 8 performing schools all being under 3000 students.
+Grade level did not have much impact on an individual school's average scores, nor did spending.
